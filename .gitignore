@@ -1,0 +1,18 @@
+# UE4 Project directories to ignore
+section03_2/escape2/Binaries/
+section03_2/escape2/DerivedDataCache/
+section03_2/escape2/Intermediate/
+section03_2/escape2/Saved/
+section03_2/escape2/Build/
+ 
+# Visual Studio solutions
+/section03_2/escape2/*.sln
+/section03_2/escape2/*.sdf
+/section03_2/escape2/*.opensdf
+/section03_2/escape2/*.suo
+
+#my 
+/section03_2/escape2/*.db
+/section03_2/escape2/*.vc
+/section03_2/escape2/Content/StarterContent/
+/section03_2/escape2/.vs/
